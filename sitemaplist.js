@@ -39,7 +39,6 @@ function toc_sort_table(a) {
 		}
 	}
 	document.write('</tbody>');
-	document.write('</table><div style="text-align:right;"><a href="http://azisjs.blogspot.com/search/label/TutorialAzisJS" target="_blank" style="font:normal bold 8px/normal Arial,Sans-Serif;color:#666;text-shadow:0 1px 0 rgba(255,255,255,.2);" title="Cara membuat Sitemap dengan Tabel ala Azis JS">Get Sitemap</a></div>');
 }
 
 function getTextValue(a) {
